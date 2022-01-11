@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/97542292/149010462-397d4b1f-e848-4ad1-8980-030bae43fc19.png)
+
 # SAFE Labs Data Scientist Developer Challenge
 
 ## Presentation

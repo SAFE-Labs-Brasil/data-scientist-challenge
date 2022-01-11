@@ -71,3 +71,17 @@ Choose only one of these options to answer for Question 5. There is no preferenc
 •             Option E: Your own curiosity!
 
 •             If the data leaps out and screams some question of you that we haven’t asked, ask it and answer it! Use this as an opportunity to highlight your special skills and philosophies.
+
+## Deliverables
+
+The deliverable for this challenge is the code, inside a public GitHub repository of yours. You should provide us the URL for it.
+
+We should be able to run your application on our computers, and your README should have all the information necessary for it. 
+
+Send us a report telling how was your experience with this challenge. Even if you can't finish, send the report because for us is more important to know your dedication on a project, thinking, and analytical skills, than looking only at your technical skills.
+
+We will evaluate you based on how well the system is architected, your code and tooling practices, your instructions and documentation on the README.MD and how well you defend your idea and decisions when presenting it to us.
+
+## Questions?
+
+If you have any questions, please send an email to your contact at SAFE Labs that we will reply as fast as we can :)
